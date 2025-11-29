@@ -30,8 +30,3 @@ Additionally, I have a growing focus on frontend development, specializing in co
 <div style="display: flex; align-items: center; gap: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=HJKUNST&show_icons=true&theme=swift" height="160px" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJKUNST&layout=compact&theme=swift" height="160px" />
-</div>
-<br/>
-
-### 🐈‍⬛ Visitor count 🐈‍⬛
-<img src="https://profile-counter.glitch.me/HJKUNST/count.svg" />
