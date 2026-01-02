@@ -24,8 +24,3 @@ Additionally, I have a growing focus on frontend development, specializing in co
 <img src="https://user-images.githubusercontent.com/18430599/38112659-491f9112-3368-11e8-8b65-1725f19a61fa.png" alt="storybook" width="30" height="30" />
 </p>
 <br/>
-
-### 🐈‍⬛ My Github Stats 🐈‍⬛
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HJKUNST&layout=compact&theme=swift" height="160px" />
