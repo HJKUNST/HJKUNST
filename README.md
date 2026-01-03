@@ -25,5 +25,3 @@ Additionally, I have a growing focus on frontend development, specializing in co
 </p>
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HJKUNST&show_icons=true&theme=transparent#gh-light-mode-only)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HJKUNST&show_icons=true&theme=dark#gh-dark-mode-only)
